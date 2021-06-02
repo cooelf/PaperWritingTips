@@ -25,7 +25,7 @@ Note（结合以往经验整理，仅供参考）：
 
 关于引用：
 
-1. 引用在文字外（parent），使用\cite。引用在文字内（within text），ACL/NAACL/EMNLP模板使用\citet{...}；COLING模板使用\newcite{...}；AAAI/IJCAI模板使用\citeauthor{...} \shortcite{...}
+1. 引用在文字外（parent），使用\cite。引用在文字内（within text），ACL/NAACL/EMNLP模板使用\citet{...}；COLING模板使用\newcite{...}；AAAI/IJCAI模板使用\citeauthor{...} \shortcite{...}；IEEE模版：\citeauthor{...}~(\citeyear{...})
 
    效果：(Zhang et al. 2020)  vs. Zhang et al. (2020)
 
